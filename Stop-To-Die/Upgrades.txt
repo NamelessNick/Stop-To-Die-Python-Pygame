@@ -1,0 +1,15 @@
+Upgrades
+
+Invetory of player with upgrade for each limb (arm / arm/ torso / head / boots)
+
+Molten Rock // Damage UP / On fire debuff / Projectile speed DOWN
+Firery Robe // Speed UP / Damage reduction UP
+
+
+
+
+
+Matirials
+
+Hell Ruby
+
